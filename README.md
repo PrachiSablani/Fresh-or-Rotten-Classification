@@ -1,9 +1,9 @@
 # Fresh-or-Rotten-Classification
 Supervised Machine Learning | Text Classification | Python | Naive Bayes
 
-The objective of this project is to implement Naive Bayes Classifier from scratch to categorize Rotten Tomatoes reviews into rotten and fresh ones and to find the optimal smoothing parameter.
+The objective of this project is to implement Naive Bayes Classifier from scratch in Python to categorize Rotten Tomatoes reviews into rotten and fresh ones and to find the optimal smoothing parameter.
 
-The data had around 13000 reviews with some features like – Movie title, critic name, review, where it was published, link, review date.
+The data has around 13000 reviews with features like – Movie title, critic name, review, published site, link, review date.
 
 I started with exploratory data analysis where I checked data types, missing values(23 none, less than 1% of data), numerical features, categorical features, checked the percentage of fresh and rotten (for checking imbalanced classes), duplicate reviews (236), checked missing reviews(0 length or space)
 
